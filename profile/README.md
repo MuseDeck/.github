@@ -1,3 +1,6 @@
+
+<img width="2752" height="1536" alt="Gemini_Generated_Image_jw12mbjw12mbjw12" src="https://github.com/user-attachments/assets/cd369ad2-dfff-4d23-bf07-0b4f9f4010e2" />
+
 # 随览 Muse Deck
 
 一个开源的 AI 原生知识呈现系统，旨在将您的碎片化信息转化为流动的、无干扰的灵感。
